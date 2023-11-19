@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@radix-ui/themes": "^2.0.1",
+    "easymde": "^2.18.0",
+    "react-simplemde-editor": "^5.2.0",
     "zod": "^3.22.2"
   }
 }
